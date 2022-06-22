@@ -1,1 +1,23 @@
-# huaraztours.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<title>Panorama Trek : Trekking &amp; Climbing tours in Huaraz-Perú</title>
+<meta name="description" content="Panorama trek is the alternative to the classic lake 69 hikes. Including the best panoramic views of surrounding lakes and mountains.">
+<link rel="canonical" href="https://akilpohuaraz.com/tours/panorama-trek/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@AkilpoTrek">
+<meta name="twitter:label1" content="Tiempo de lectura">
+<meta name="twitter:data1" content="2 minutos">
+<title>Huaraz tours</title>
+
+  </head>
+<body>
+    
+</body>
+</html>
